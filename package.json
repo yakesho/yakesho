@@ -1,0 +1,30 @@
+{
+  "name": "yakesho",
+  "version": "1.0.0",
+  "description": "✨ Profile README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakesho/yakesho.git"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "serve": "python server.py"
+  },
+  "keywords": [
+    "profile",
+    "readme",
+    "github"
+  ],
+  "author": "yakesho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yakesho/yakesho/issues"
+  },
+  "homepage": "https://github.com/yakesho/yakesho#readme",
+  "devDependencies": {
+    "@types/gh-pages": "^3.0.1",
+    "@types/node": "^16.4.2",
+    "gh-pages": "^3.2.3",
+    "png-to-ico": "^2.1.2"
+  }
+}
