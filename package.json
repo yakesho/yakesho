@@ -25,6 +25,7 @@
     "@types/gh-pages": "^3.0.1",
     "@types/node": "^16.4.2",
     "gh-pages": "^3.2.3",
-    "png-to-ico": "^2.1.2"
+    "png-to-ico": "^2.1.2",
+    "sharp": "^0.28.3"
   }
 }
