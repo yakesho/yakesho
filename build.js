@@ -13,7 +13,9 @@ const sharp = require("sharp");
     const ico = await png("./app/assets/logo.png");
     await fs.writeFile("./app/favicon.ico", ico);
 
-    ghPages.publish("./app", (err) => {throw err});
+    ghPages.publish("./app", (err) => {
+      throw err;
+    });
   } catch (error) {
     console.log(error?.message || error);
     process.exit(1);

@@ -13,6 +13,7 @@ Hello. My name is [@yakesho](https://github.com/yakesho/) (Not my real name). I'
 
 # Contributions
 <img src="./assets/npm.png" width="50" alt="npm" />
+<img src="./assets/npkgz.png" width="50" alt="npkgz" />
 
 # Portfolio
 My portfolio source code is available [here](./app). View it live [here](https://yakesho.github.io/yakesho/).
