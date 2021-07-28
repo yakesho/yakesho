@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/yakesho"><img src="https://komarev.com/ghpvc/?username=yakesho&style=flat-square" /></a>
   <a href="https://github.com/yakesho?tab=repositories"><img src="https://badges.pufler.dev/repos/yakesho?style=flat-square" /></a>
-  <a href="https://discord.gg/HNf7FWPzW5"><img src="https://img.shields.io/discord/869879097176772608.svg" /></a>
+  <a href="https://discord.gg/HNf7FWPzW5"><img src="https://img.shields.io/discord/869879097176772608.svg?style=flat-square" /></a>
 </p>
 
 # About me
